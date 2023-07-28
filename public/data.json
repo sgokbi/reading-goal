@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
+    "name": " The Book Thief",
+    "author": "Markus Zusak",
+    "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
+    "readTime": "6 hours",
+    "category": "History, war"
+  },
+
+  {
+    "id": "2",
+    "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
+    "name": " The Book Thief",
+    "author": "Markus Zusak",
+    "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
+    "readTime": "6 hours",
+    "category": "History, war"
+  },
+
+  {
+    "id": "3",
+    "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
+    "name": " The Book Thief",
+    "author": "Markus Zusak",
+    "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
+    "readTime": "6 hours",
+    "category": "History, war"
+  },
+
+  {
+    "id": "4",
+    "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
+    "name": " The Book Thief",
+    "author": "Markus Zusak",
+    "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
+    "readTime": "6 hours",
+    "category": "History, war"
+  }
+]
