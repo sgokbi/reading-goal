@@ -19,3 +19,26 @@
   position: sticky;
   top: 30px;
 }
+
+/* ============= Responsive =================*/
+@media (max-width: 992px) {
+  .books-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .books-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .home-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .books-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
