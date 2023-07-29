@@ -11,31 +11,80 @@
 
   {
     "id": "2",
-    "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
-    "name": " The Book Thief",
-    "author": "Markus Zusak",
-    "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
-    "readTime": "6 hours",
-    "category": "History, war"
+    "bookCover": "https://d.gr-assets.com/books/1417900846l/29579.jpg",
+    "name": "Foundation",
+    "author": "Isaac Osimov",
+    "authorImg": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-3240525jpg--.jpg",
+    "readTime": "7 hours",
+    "category": "Science fiction"
   },
 
   {
     "id": "3",
-    "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
-    "name": " The Book Thief",
-    "author": "Markus Zusak",
-    "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
-    "readTime": "6 hours",
+    "bookCover": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+    "name": " Harry Potter",
+    "author": "J K Rowling",
+    "authorImg": "https://m.media-amazon.com/images/S/amzn-author-media-prod/8cigckin175jtpsk3gs361r4ss.jpg",
+    "readTime": "4 hours",
     "category": "History, war"
   },
 
   {
     "id": "4",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg",
+    "name": "Sapiens: A brief history of humankind",
+    "author": "Yuval Noah Harari",
+    "authorImg": "https://assets.weforum.org/sf_account/image/OYPGh90FjJt0XME4g2dW5jxEQzBdvNv7YPGsrt8tqds.jpg",
+    "readTime": "5 hours",
+    "category": "Science, Evolution"
+  },
+  {
+    "id": "2",
+    "bookCover": "https://d.gr-assets.com/books/1417900846l/29579.jpg",
+    "name": "Foundation",
+    "author": "Isaac Osimov",
+    "authorImg": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-3240525jpg--.jpg",
+    "readTime": "7 hours",
+    "category": "Science fiction"
+  },
+
+  {
+    "id": "1",
     "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
     "name": " The Book Thief",
     "author": "Markus Zusak",
     "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
     "readTime": "6 hours",
+    "category": "History, war"
+  },
+
+  {
+    "id": "1",
+    "bookCover": "https://www.biblioimages.com/macmillanaus/getimage.aspx?class=books&assetversionid=174939&cat=default&size=origjpg&id=22145",
+    "name": " The Book Thief",
+    "author": "Markus Zusak",
+    "authorImg": "https://i.guim.co.uk/img/media/d3ed9a9e43fe1675b5a9da3a5dc473ae37638aa4/0_0_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9ba058c6fc011a7b31515cd2a5bd1821",
+    "readTime": "6 hours",
+    "category": "History, war"
+  },
+
+  {
+    "id": "2",
+    "bookCover": "https://d.gr-assets.com/books/1417900846l/29579.jpg",
+    "name": "Foundation",
+    "author": "Isaac Osimov",
+    "authorImg": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-3240525jpg--.jpg",
+    "readTime": "7 hours",
+    "category": "Science fiction"
+  },
+
+  {
+    "id": "3",
+    "bookCover": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+    "name": " Harry Potter",
+    "author": "J K Rowling",
+    "authorImg": "https://m.media-amazon.com/images/S/amzn-author-media-prod/8cigckin175jtpsk3gs361r4ss.jpg",
+    "readTime": "4 hours",
     "category": "History, war"
   }
 ]

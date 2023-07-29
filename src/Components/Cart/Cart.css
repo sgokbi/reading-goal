@@ -1,0 +1,36 @@
+.cart {
+  position: sticky;
+  top: 130px;
+}
+
+.cart-heading {
+  background-color: rgba(0, 61, 165, 0.2);
+  padding: 2px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.cart-heading h3 {
+  color: rgb(24, 27, 201);
+}
+
+.read-list-books {
+  background-color: rgba(235, 236, 236, 0.6);
+  border-radius: 5px;
+  margin-top: 1rem;
+  padding: 0.5rem 0;
+}
+
+.read-list-books h3 {
+  text-align: center;
+}
+
+.read-list-books div {
+  background-color: #fff;
+  margin: 0.8rem;
+}
+
+.read-list-books div h5 {
+  padding: 1rem;
+  border-radius: 5px;
+}

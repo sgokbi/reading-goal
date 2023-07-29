@@ -1,0 +1,21 @@
+.container {
+  width: 90%;
+  margin: 2rem auto;
+}
+
+.home-container {
+  display: grid;
+  grid-template-columns: 6fr 2fr;
+  gap: 2rem;
+}
+
+.books-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.cart-container {
+  position: sticky;
+  top: 30px;
+}
