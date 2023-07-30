@@ -4,9 +4,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBookmark } from "@fortawesome/free-regular-svg-icons";
 
 const DisplayBooks = (props) => {
-  console.log(props.book);
   const { id, name, bookCover, author, authorImg, category, readTime } =
     props.book;
+  const addToCompletedReading = props.addToCompletedReading;
 
   return (
     <div className="book-container">
@@ -35,7 +35,12 @@ const DisplayBooks = (props) => {
             ></FontAwesomeIcon>
             {readTime} to read
           </p>
-          <p className="mark-btn">Mark as read</p>
+          <p
+            onClick={() => addToCompletedReading(props.book)}
+            className="mark-btn"
+          >
+            Mark as read
+          </p>
         </div>
       </div>
     </div>

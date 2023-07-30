@@ -5,27 +5,37 @@ import DisplayBooks from "../../DisplayBooks/DisplayBooks";
 
 const Home = () => {
   const [books, setBooks] = useState([]);
+  const [completedReadingCart, setCompletedReadingCart] = useState([]);
 
   useEffect(() => {
     fetch("data.json")
       .then((res) => res.json())
       .then((data) => {
-        console.log(data);
         setBooks(data);
       });
   }, []);
+
+  const addToCompletedReading = (book) => {
+    const newCart = [...completedReadingCart, book];
+
+    setCompletedReadingCart(newCart);
+  };
 
   return (
     <div className="container">
       <div className="home-container">
         <div className="books-container">
           {books.map((book) => (
-            <DisplayBooks key={book.id} book={book}></DisplayBooks>
+            <DisplayBooks
+              key={book.id}
+              book={book}
+              addToCompletedReading={addToCompletedReading}
+            ></DisplayBooks>
           ))}
         </div>
 
         <div className="cart-container">
-          <Cart></Cart>
+          <Cart completedReadingCart={completedReadingCart}></Cart>
         </div>
       </div>
     </div>
