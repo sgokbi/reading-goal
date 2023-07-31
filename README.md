@@ -17,3 +17,4 @@ This project idea is developed to keep listed and track all the completed readin
 - [React JS](https://create-react-app.dev/docs/getting-started) is used to create this project.
 - [Font Awesome](https://create-react-app.dev/docs/getting-started) is used for icons.
 - For data on book details, used fake data as "data.json" in the public folder in the app.
+- Local storage is used for store data and retrieve data in th UI.
